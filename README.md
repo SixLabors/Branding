@@ -14,5 +14,6 @@ SVG's and raster version of all SixLabors products are stored in this repository
 <img src="icons/shapes/sixlabors.shapes.svg" alt="SixLabors.Shapes" width="128"/>
 <img src="icons/fonts/sixlabors.fonts.svg" alt="SixLabors.Fonts" width="128"/>
 <img src="icons/imagesharp/sixlabors.imagesharp.svg" alt="SixLabors.ImageSharp" width="128"/>
+<img src="icons/imagesharp.web/sixlabors.imagesharp.web.svg" alt="SixLabors.ImageSharp.Web" width="128"/>
 </div>
 <hr>
